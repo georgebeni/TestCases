@@ -1,4 +1,4 @@
-# TestCases
+# Test Cases
 
 Bellow are some of my test cases.
 
