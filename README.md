@@ -2,6 +2,8 @@
 
 Bellow are some of my test cases.
 
+Also, you can check my [Bugs Report](https://docs.google.com/spreadsheets/d/1yuCr51GCLYAWpRpcpPQ1gcHglSZefNNS3Ji_xgW6Fwg/edit?usp=sharing) on Google Sheets.
+
 ---
 
 ## Test Case #1
